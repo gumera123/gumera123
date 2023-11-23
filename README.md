@@ -1,16 +1,42 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+</head>
+<body>
 
-<!--
-**gumera123/gumera123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <header>
+    <h1>Welcome to My Webpage</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
 
-Here are some ideas to get you started:
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>I am passionate about creating amazing websites!</p>
+    </section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    <section>
+      <h2>Services</h2>
+      <ul>
+        <li>Web Design</li>
+        <li>Web Development</li>
+        <li>SEO Optimization</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 My Webpage</p>
+  </footer>
+
+</body>
+</html>
 -->
