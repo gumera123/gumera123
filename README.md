@@ -7,36 +7,5 @@
 
   <header>
     <h1>Welcome to My Webpage</h1>
-    <nav>
-      <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Services</a></li>
-        <li><a href="#">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
-
-  <main>
-    <section>
-      <h2>About Me</h2>
-      <p>I am passionate about creating amazing websites!</p>
-    </section>
-
-    <section>
-      <h2>Services</h2>
-      <ul>
-        <li>Web Design</li>
-        <li>Web Development</li>
-        <li>SEO Optimization</li>
-      </ul>
-    </section>
-  </main>
-
-  <footer>
-    <p>&copy; 2023 My Webpage</p>
-  </footer>
-
-</body>
-</html>
--->
+  
+  
